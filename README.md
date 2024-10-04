@@ -5,16 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crystalstar0920" alt="crystalstar0920" /></a> </p>
 
-- 🔭 I’m currently working on **freelancer.**
-
-- 🌱 I’m currently learning **Android/iOS.**
-
-- 👯 I’m looking to collaborate on **team.**
-
-- 📫 How to reach me **crystalstar0920@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.codechef.com/users/crystalstar0920" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="crystalstar0920" height="30" width="40" /></a>
